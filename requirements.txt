@@ -10,7 +10,7 @@ coverage==7.6.0
 fastapi==0.111.1
 graphql-core==3.2.3
 greenlet==3.0.3
-h11==0.14.0
+h11==0.16.0
 httptools==0.6.1
 idna==3.7
 importlib-metadata==8.0.0
